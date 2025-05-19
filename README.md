@@ -6,7 +6,7 @@
 
 **INTERN ID**: CT04DL811
 
-**DOMAIN**: VLSI
+**DOMAIN**: RAM
 
 **DURATION**: 4 WEEKS
 
